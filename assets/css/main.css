@@ -10,6 +10,14 @@ html {
   font-size: 100%
 }
 
+.main iframe {
+    border: none;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3000;
+}
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
@@ -65,7 +73,7 @@ hr.small {
 }
 
 /* fix in-page anchors to not be behind fixed header */
-:target:before { 
+:target:before {
   content: "";
   display: block;
   height: 3.125rem; /* navbar height */
@@ -717,7 +725,7 @@ footer .footer-custom-content {
     display: block;
   }
 }
-.reader-time .middot { 
+.reader-time .middot {
   margin: 0 0.625rem;
 }
 
