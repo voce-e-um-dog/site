@@ -7,15 +7,15 @@ title: Você é um dog
 description: seu nome em um dog que é sua cara
 
 # Your name to show in the footer
-author: Karoline Leite | Sarah Leite
+author: Você é um dog
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Nossos produtos: "produtos"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Na mídia: "midia"
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
